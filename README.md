@@ -1,6 +1,7 @@
 # Replication of the results of He et al NatMed 2020
 
-*Andrei R. Akhmetzhanov*
+*Andrei R. Akhmetzhanov*</br></br>
+
 
 This repository is to infer infectiousness profile using distribution of serial intervals and to replicate the results of He et al NatMed 2020.
 
