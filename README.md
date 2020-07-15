@@ -43,7 +43,6 @@ The incubation period period used in He et al was a lognormal distribution of th
 In our Stan simulations we used the estimates of Linton et al 2020 which were based on a larger dataset. In that case the mean is 5.1 days and parameters of the lognormal distribution are 1.519 and 0.615. Linton et al estimates were consistent to two other studies of Baker et al 2020 and Lauer et al 2020.
 
 # Code scripts
-* [Fig 1c.ipynb]() Original code shared by He et al
 
 * [A1. Stan simulations.ipynb](https://nbviewer.jupyter.org/github/aakhmetz/COVID19-Replication-He-et-al-2020/blob/master/scripts/Andrei/A.%20He%20et%20al%20Nat%20Med%20replication%20%5BR%5D.ipynb) Code to run MCMC simulations in cmdStan
 
