@@ -73,4 +73,4 @@ Linton, N.M.; Kobayashi, T.; Yang, Y.; Hayashi, K.; Akhmetzhanov, A.R.; Jung, S-
 ---------
 **Thank you for your interest!**
 
-Few words of caution: We would like to note that our code is not supposed to work out of box, because the links used in the notebooks were user-specific, and our main intention was to show the relevance of our methods.
+(c) Andrei R. Akhmetzhanov. Few words of caution: We would like to note that our code is not supposed to work out of box, because the links used in the notebooks were user-specific, and our main intention was to show the relevance of our methods.
