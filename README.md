@@ -30,7 +30,7 @@ The best-fit Weibull distribution was shifted by –3.7 days (95% CI: –4.3, �
 
 We did another double-check by extending the dataset using by He et al. After including additional infector-infectee pairs collected by us and not shown here (literature search + Japanese data resulted in total 265 pairs), we arrived at quite similar results with only difference that the Weibull distribution became more determined:
 <p align="center">
-  <img src="results/weibull2.png" width="40%" title="Best-fit Weibull distribution">
+  <img src="results/weibull2.png" width="33%" title="Best-fit Weibull distribution">
 </p>
 In this case the shift was –3.2 days (95% CI: –3.5, –3.2), the mode was at –0.8 days (95% CI: –1.4, –0.2). The fraction of presymptomatic transmissions was a bit higher than before: 58% (95% CI: 49%, 67%).
 
