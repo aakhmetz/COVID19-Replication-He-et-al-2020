@@ -3,12 +3,12 @@
 *Andrei R. Akhmetzhanov*</br></br>
 
 
+## He et al study
+
 **Dataset of He et al.** compromises 77 infector-infectee pairs
 <p align="center">
   <img src="data/data_He_NatMedicine.png" width="70%" title="Dataset of He et al 2020">
 </p>
-
-## He et al study
 
 [He et al.](http://dx.doi.org/10.1038/s41591-020-0869-5) obtained point-wise estimates of the infectiousness profile using maximum likelihood estimation (MLE).
 <p align="center">
