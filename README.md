@@ -3,8 +3,6 @@
 *Andrei R. Akhmetzhanov*</br></br>
 
 
-This repository is to infer infectiousness profile using distribution of serial intervals and to replicate the results of He et al NatMed 2020.
-
 **Dataset of He et al.** compromises 77 infector-infectee pairs
 <p align="center">
   <img src="data/data_He_NatMedicine.png" width="70%" title="Dataset of He et al 2020">
