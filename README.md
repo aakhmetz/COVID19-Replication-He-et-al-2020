@@ -55,7 +55,7 @@ Fitting data with different distributions showed that shifted distributions with
 
 Accounting for more data points (extended dataset available for Japan and not included here) showed even a better robustness of He et al results.
 
-Our replication exercise does not support the claims of a recent preprint of [Ashcroft et al](https://arxiv.org/abs/2007.06602), who argued that the infectiousness profile would be similar to a skewed normal distribution (~the gamma distribution with a fairly large shift) and the results of [He et al](http://dx.doi.org/10.1038/s41591-020-0869-5) are incorrect. We consider the omission of two data points by He et al as a minor technical issue rather than an error. Our replication demonstrate consistency with He et al after inclusion of two points.
+Our replication exercise does not support the claims of a recent preprint of [Ashcroft et al](https://arxiv.org/abs/2007.06602), who argued that the infectiousness profile would be similar to a skewed normal distribution (~the gamma distribution with a fairly large shift) and the results of [He et al](http://dx.doi.org/10.1038/s41591-020-0869-5) are incorrect. We consider the omission of two data points by He et al as a minor technical issue rather than an error. 
 
 ## References
 
