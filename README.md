@@ -48,7 +48,7 @@ In our Stan simulations we used the estimates of [Linton et al 2020](http://dx.d
 
 # Conclusions
 
-The results of simulations in Stan show high consistency with the MLE estimates obtained in [He et al 2020](http://dx.doi.org/10.1038/s41591-020-0869-5). Unintentional exclusion of two extreme datapoints by He et al has not affected the resulting estimates.
+The results of simulations in Stan show high consistency with the MLE estimates obtained in [He et al 2020](http://dx.doi.org/10.1038/s41591-020-0869-5). Unintentional exclusion of two extreme datapoints in simulations of He et al did not affect the resulting estimates. In our simulations we did account for those two missing points.
 
 Fitting data with different distributions showed that shifted distributions with positive support (Weibull/gamma/lognormal) were much better than skewed normal distribution in terms of WAIC values.
 
