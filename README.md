@@ -7,8 +7,6 @@ This repository is to infer infectiousness profile using distribution of serial 
   <img src="data/data_He_NatMedicine.png" width="70%" title="Dataset of He et al 2020">
 </p>
 
-# Results
-
 ## He et al study
 
 [He et al.](http://dx.doi.org/10.1038/s41591-020-0869-5) obtained point-wise estimates of the infectiousness profile using maximum likelihood estimation (MLE).
