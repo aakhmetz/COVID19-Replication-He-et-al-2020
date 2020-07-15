@@ -4,7 +4,7 @@ This repository is to infer infectiousness profile using distribution of serial 
 
 **Dataset of He et al.** compromises 77 infector-infectee pairs
 <p align="center">
-  <img src="data/data_He_NatMedicine.png" width="60%" title="Dataset of He et al 2020">
+  <img src="data/data_He_NatMedicine.png" width="70%" title="Dataset of He et al 2020">
 </p>
 
 # Results
@@ -19,11 +19,11 @@ The infectiousness profile was fitted to the shifted gamma distribution with the
 
 We perform our simulation with implementation in Stan. Comparing four distribution by WAIC values, we identify the best-fit distribution to be a shifted Weibull distribution:
 <p align="center">
-  <img src="results/WAIC.png" width="80%" title="Comparing data fits with WAIC values">
+  <img src="results/WAIC.png" width="90%" title="Comparing data fits with WAIC values">
 </p>
 where the fits:
 <p align="center">
-  <img src="results/model_fit.png" width="60%" title="Data fitting with different distributions">
+  <img src="results/model_fit.png" width="70%" title="Data fitting with different distributions">
 </p>
 
 The best-fit Weibull distribution was shifted by –3.7 days (95% CI: –4.3, –3.3) with the mode at –0.8 days (95% CI: –2.5, 0.5). The presymptomatic transmission compromised 47% (95% CI: 34%, 61%).
@@ -32,7 +32,7 @@ The best-fit Weibull distribution was shifted by –3.7 days (95% CI: –4.3, �
 
 We did another double-check by extending the dataset using by He et al. After including additional infector-infectee pairs collected by us and not shown here (literature search + Japanese data resulted in total 265 pairs), we arrived at quite similar results with only difference that the Weibull distribution became more determined:
 <p align="center">
-  <img src="results/weibull2.png" width="30%" title="Best-fit Weibull distribution">
+  <img src="results/weibull2.png" width="40%" title="Best-fit Weibull distribution">
 </p>
 In this case the shift was –3.2 days (95% CI: –3.5, –3.2), the mode was at –0.8 days (95% CI: –1.4, –0.2). The fraction of presymptomatic transmissions was a bit higher than before: 58% (95% CI: 49%, 67%).
 
